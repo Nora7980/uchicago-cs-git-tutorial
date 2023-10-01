@@ -1,1 +1,2 @@
-aaron45		Aaron Yang
+aaron4		Aaron Yang
+Git is pretty cool
